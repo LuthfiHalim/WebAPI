@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WebAPI.Database;
 
 namespace WebAPI.Migrations
 {
     [DbContext(typeof(CoreDBContext))]
-    partial class CoreDBContextModelSnapshot : ModelSnapshot
+    [Migration("20200117063313_addForeignKey")]
+    partial class addForeignKey
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

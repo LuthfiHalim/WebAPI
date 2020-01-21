@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Security.Cryptography;
 using System.Text;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebAPI.Model
 {
@@ -23,9 +24,10 @@ namespace WebAPI.Model
         public int id { get; set; }
         public string username { get; set; }
         public string password { get; set; }
-        public string salt => hashPassword(password);
+        public string salt => password!=null?hashPassword(password):null;
         public string email { get; set; }
         public string profile { get; set; }
+        [ForeignKey("userid")]
         public List<Post> posts { get; set; }
     }
 }

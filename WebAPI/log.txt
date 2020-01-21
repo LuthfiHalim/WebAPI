@@ -1,0 +1,70 @@
+[1/20/2020 10:51:46 AM] HTTPS GET localhost:5001/user
+[1/20/2020 11:35:49 AM] HTTPS GET localhost:5001/user
+[1/20/2020 11:36:59 AM] HTTP GET localhost:5000/user
+[1/20/2020 11:37:41 AM] HTTP POST localhost:5000/user
+[1/20/2020 11:38:00 AM] HTTPS GET localhost:5001/user
+[1/20/2020 11:40:05 AM] HTTPS GET localhost:5001/user
+[1/20/2020 11:40:19 AM] HTTP POST localhost:5000/user
+[1/20/2020 11:40:23 AM] HTTPS GET localhost:5001/user
+[1/20/2020 11:42:05 AM] HTTPS GET localhost:5001/user
+[1/20/2020 11:42:11 AM] HTTP POST localhost:5000/user
+{
+    "username": "Luthfi Halim",
+    "password": "ayoayomaju",
+    "email": "luthfi.halim@gmail.com",
+    "profile": "mafia migas"
+}
+[1/20/2020 11:42:26 AM] HTTPS GET localhost:5001/user
+[1/20/2020 11:43:45 AM] HTTPS GET localhost:5001/user
+[1/20/2020 11:44:12 AM] HTTP POST localhost:5000/user
+{
+    "username": "Luthfi Halim",
+    "password": "ayoayomaju",
+    "email": "luthfi.halim@gmail.com",
+    "profile": "mafia migas"
+}
+[1/20/2020 11:49:17 AM] HTTPS GET localhost:5001/user
+[1/20/2020 11:49:35 AM] HTTP POST localhost:5000/user
+[1/20/2020 11:50:20 AM] HTTPS GET localhost:5001/user
+[1/20/2020 11:51:36 AM] HTTP POST localhost:5000/user
+{
+    "username": "Luthfi Halim",
+    "password": "ayoayomaju",
+    "email": "luthfi.halim@gmail.com",
+    "profile": "mahasiswa garden"
+}
+[1/20/2020 11:54:10 AM] HTTPS GET localhost:5001/user
+[1/20/2020 11:54:24 AM] HTTP POST localhost:5000/user
+{
+    "username": "Awwahun Halim",
+    "password": "ayoayomaju",
+    "email": "luthfi.halim@gmail.com",
+    "profile": "mahasiswa garden"
+}
+[Utc] HTTPS GET localhost:5001/user
+[1/20/2020 6:15:30 AM] HTTPS GET localhost:5001/user
+[Local] HTTPS GET localhost:5001/user
+[1/20/2020 1:22:46 PMSystem.CurrentSystemTimeZone] HTTPS GET localhost:5001/user
+[1/20/2020 1:23:48 PM(UTC+07:00) Bangkok, Hanoi, Jakarta] HTTPS GET localhost:5001/user
+[1/20/2020 1:24:30 PMSE Asia Standard Time] HTTPS GET localhost:5001/user
+[1/20/2020 1:26:28 PMSE Asia Standard Time] HTTPS GET localhost:5001/user
+[1/20/2020 1:29:35 PM(UTC+07:00) Bangkok, Hanoi, Jakarta] HTTPS GET localhost:5001/user
+[1/20/2020 1:33:22 PM(UTC+07:00) Bangkok, Hanoi, Jakarta] HTTPS GET localhost:5001/user
+[1/20/2020 1:37:17 PM(UTC+07:00) Bangkok, Hanoi, Jakarta] HTTPS GET localhost:5001/user
+[1/20/2020 2:21:40 PM(UTC+07:00) Bangkok, Hanoi, Jakarta] HTTPS GET localhost:5001/user
+[1/20/2020 2:21:41 PM(UTC+07:00) Bangkok, Hanoi, Jakarta] HTTPS GET localhost:5001/favicon.ico
+[1/20/2020 2:22:52 PM(UTC+07:00) Bangkok, Hanoi, Jakarta] HTTP POST localhost:5000/user
+{
+    "username": "Awwahun Halim",
+    "password": "ayoayomaju",
+    "email": "luthfi.halim@gmail.com",
+    "profile": "mahasiswa garden"
+}
+[1/20/2020 2:24:45 PM(UTC+07:00) Bangkok, Hanoi, Jakarta] HTTPS GET localhost:5001/user
+[1/20/2020 2:24:52 PM(UTC+07:00) Bangkok, Hanoi, Jakarta] HTTP POST localhost:5000/user
+[1/20/2020 2:28:45 PM(UTC+07:00) Bangkok, Hanoi, Jakarta] HTTPS GET localhost:5001/user
+[1/20/2020 2:35:32 PM(UTC+07:00) Bangkok, Hanoi, Jakarta] HTTP GET cf9e6818.ngrok.io/
+[1/20/2020 2:35:46 PM(UTC+07:00) Bangkok, Hanoi, Jakarta] HTTP GET cf9e6818.ngrok.io/user
+[1/20/2020 2:35:47 PM(UTC+07:00) Bangkok, Hanoi, Jakarta] HTTP GET cf9e6818.ngrok.io/favicon.ico
+[1/20/2020 2:38:38 PM(UTC+07:00) Bangkok, Hanoi, Jakarta] HTTP GET 33d0a13f.ngrok.io/user
+[1/20/2020 2:38:39 PM(UTC+07:00) Bangkok, Hanoi, Jakarta] HTTP GET 33d0a13f.ngrok.io/favicon.ico

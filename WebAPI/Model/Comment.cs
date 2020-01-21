@@ -14,5 +14,6 @@ namespace WebAPI.Model
         public int readBy { get; set; }
         public DateTime createTime { get; set; }
         public string url { get; set; }
+        public int postid { get; set; }
     }
 }
